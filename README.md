@@ -10,6 +10,12 @@ W tym momencie w grze znajduje się postać, którą można kontrolować za pomo
 Co zostanie dodane w przyszłości:
 Wkrótce w grze zostanie dodana większa różnorodność przeszkód, waluta gry (za którą będzie można kupić skórki), a także zostanie dodany wybór poziomu trudności (będzie do niego zależała ilości otrzymanej waluty). Zostaną również dodane dźwięki aby poprawić atmosferę, oraz ulepszony interfejs, np. pauza zmieniająca głośność menu głównego i tym podobne.
 
+Interfejs: 
+Interfejs jest bardzo prosty i intuicyjny, znajduje się w nim przycisk umożliwiający wejście do gry, a także rozpoczęcie od nowa. Nowością jest także sklep ze skórkami.
+
+Interakcja:
+Główną mechaniką gry jest unikanie przeszkód poprzez naciśnięcie przycisku myszy. Za każdą pokonaną przeszkodę gracz otrzymuje punkty, za które może kupić coś w sklepie gry.
+
 
 Action game in early development
 Version 0.01 Alpha Test
