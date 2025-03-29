@@ -19,3 +19,5 @@ Version 0.1 Player and Enemes
 Version 0.3 Dubug, Points, Scores
 
 Version 0.4 Add Best Score
+
+Version 0.7 Add Shop and many skins
