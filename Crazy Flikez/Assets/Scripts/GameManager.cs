@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
 
     [SerializeField] private GameObject _gameOverCanvas;
     [SerializeField] private GameObject _StartButton;
+    [SerializeField] private GameObject _ShopButton;
 
 
     private void Awake() {
@@ -20,13 +21,18 @@ public class GameManager : MonoBehaviour
     }
 
 
+
+
     public void GameOver()
     {
         _gameOverCanvas.SetActive(true);
         _StartButton.SetActive(true);
+        _ShopButton.SetActive(true);
 
         Time.timeScale = 0f;
+        
     }
+
     public void RestartGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);

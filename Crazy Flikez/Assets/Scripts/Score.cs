@@ -11,7 +11,9 @@ public class Score : MonoBehaviour
 
     [SerializeField] private TextMeshProUGUI _currentScoreText;
     [SerializeField] private TextMeshProUGUI _highScoreText;
+    [SerializeField] private TextMeshProUGUI _ShopPointsText;
     private int _score;
+    public static int _points;
 
     private void Awake()
     {
@@ -24,9 +26,18 @@ public class Score : MonoBehaviour
     private void Start()
     {
         _currentScoreText.text = _score.ToString();
+       
+        
 
         _highScoreText.text = PlayerPrefs.GetInt("HighScore", 0).ToString();
         UpdateHighScore();
+
+        
+        _ShopPointsText.text = PlayerPrefs.GetInt("ShopPoints", 0).ToString();
+        _points = PlayerPrefs.GetInt("ShopPoints");
+
+
+
     }
 
     private void UpdateHighScore()
@@ -43,5 +54,13 @@ public class Score : MonoBehaviour
         
         _currentScoreText.text = _score.ToString();
         UpdateHighScore();
+        UpdateSHopPoints();
+    }
+    public void UpdateSHopPoints() {
+        _points++;
+        PlayerPrefs.SetInt("ShopPoints", _points);
+        _ShopPointsText.text = _points.ToString();
+        
+
     }
 }

@@ -3,20 +3,23 @@
   "WorkspaceRootPath": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\PipeScore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PipeScore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\Shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\GameForPDI2.0\\Assets\\Scripts\\BoughtinShop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\Score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\PipeSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PipeSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\PipeScore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PipeScore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\FlighBird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +32,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\MovePipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MovePipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\PipeSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PipeSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\GameForPDI2.0\\Assets\\Scripts\\Cliks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\Scens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Scens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,30 +52,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PipeScore.cs",
-              "DocumentMoniker": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\PipeScore.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeScore.cs",
-              "ToolTip": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\PipeScore.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PipeScore.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "DocumentIndex": 1,
+              "Title": "BoughtinShop.cs",
+              "DocumentMoniker": "F:\\GameForPDI2.0\\Assets\\Scripts\\BoughtinShop.cs",
+              "ToolTip": "F:\\GameForPDI2.0\\Assets\\Scripts\\BoughtinShop.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAGUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T20:04:17.497Z",
+              "WhenOpened": "2025-03-28T22:31:14.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\Shop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shop.cs",
+              "ToolTip": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\Shop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:15:58.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Score.cs",
               "DocumentMoniker": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\Score.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Score.cs",
               "ToolTip": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\Score.cs",
               "RelativeToolTip": "Assets\\Scripts\\Score.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T19:54:09.419Z",
               "EditorCaption": ""
@@ -69,6 +94,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T19:32:00.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Scens.cs",
+              "DocumentMoniker": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\Scens.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scens.cs",
+              "ToolTip": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\Scens.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scens.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:52:12.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliks.cs",
+              "DocumentMoniker": "F:\\GameForPDI2.0\\Assets\\Scripts\\Cliks.cs",
+              "ToolTip": "F:\\GameForPDI2.0\\Assets\\Scripts\\Cliks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:19:37.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PipeSpawner.cs",
               "DocumentMoniker": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\PipeSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PipeSpawner.cs",
@@ -81,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MovePipe.cs",
               "DocumentMoniker": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\MovePipe.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MovePipe.cs",
@@ -94,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LoopGround.cs",
               "DocumentMoniker": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\LoopGround.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LoopGround.cs",
@@ -107,28 +169,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T19:32:00.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FlighBird.cs",
               "DocumentMoniker": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\FlighBird.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FlighBird.cs",
               "ToolTip": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\FlighBird.cs",
               "RelativeToolTip": "Assets\\Scripts\\FlighBird.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T19:31:51.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PipeScore.cs",
+              "DocumentMoniker": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\PipeScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeScore.cs",
+              "ToolTip": "E:\\Unity\\Crazy-Flikez\\Crazy Flikez\\Assets\\Scripts\\PipeScore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PipeScore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T20:04:17.497Z",
               "EditorCaption": ""
             }
           ]
