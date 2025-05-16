@@ -5,29 +5,29 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638696411907389606
-    m_Hash: 4106855180
+      ticks: 638830352233024548
+    m_Hash: 268630542
   m_LockFileStatus:
     m_FilePath: E:/Unity/Crazy-Flikez/Crazy Flikez/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638696411907389606
-    m_Hash: 2787841715
+      ticks: 638830352330003006
+    m_Hash: 3500814511
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: E:/Unity/Crazy-Flikez/Crazy Flikez/Packages
-m_EditorVersion: 2022.3.53f1 (df4e529d20d3)
+m_EditorVersion: 2022.3.62f1 (4af31df58517)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@2.6.0
+- packageId: com.unity.collab-proxy@2.7.1
   testable: 0
   isDirectDependency: 1
-  version: 2.6.0
+  version: 2.7.1
   source: 1
-  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.collab-proxy@2.6.0
+  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.collab-proxy@2.7.1
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -120,10 +120,14 @@ m_ResolvedPackages:
     - 2.5.1
     - 2.5.2
     - 2.6.0
+    - 2.7.1
+    - 2.8.1
+    - 2.8.2
     compatible:
-    - 2.5.2
-    - 2.6.0
-    recommended: 2.5.2
+    - 2.7.1
+    - 2.8.1
+    - 2.8.2
+    recommended: 2.7.1
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -153,16 +157,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638684801569990000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.6/manual/index.html
+  datePublishedTicks: 638751271186710000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.7/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: b7effc6b40a40af218ae30084906471699330ac9
+    revision: cf9c21f84be18cbe2d6a93ec7cfbeb01b4310bbe
     path: 
   unityLifecycle:
-    version: 2.5.2
+    version: 2.7.1
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -218,11 +222,11 @@ m_ResolvedPackages:
     version: default
   resolvedDependencies:
   - name: com.unity.2d.animation
-    version: 9.1.3
+    version: 9.2.0
   - name: com.unity.2d.common
-    version: 8.0.4
+    version: 8.1.0
   - name: com.unity.burst
-    version: 1.8.18
+    version: 1.8.21
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.modules.jsonserialize
@@ -244,11 +248,11 @@ m_ResolvedPackages:
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.2d.pixel-perfect
-    version: 5.0.3
+    version: 5.1.0
   - name: com.unity.2d.psdimporter
-    version: 8.0.5
+    version: 8.1.0
   - name: com.unity.2d.spriteshape
-    version: 9.0.5
+    version: 9.1.0
   - name: com.unity.modules.physics2d
     version: 1.0.0
   - name: com.unity.2d.tilemap
@@ -260,7 +264,7 @@ m_ResolvedPackages:
   - name: com.unity.ugui
     version: 1.0.0
   - name: com.unity.2d.aseprite
-    version: 1.1.6
+    version: 1.1.9
   keywords: []
   registry:
     id: main
@@ -289,12 +293,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.ide.rider@3.0.34
+- packageId: com.unity.ide.rider@3.0.36
   testable: 0
   isDirectDependency: 1
-  version: 3.0.34
+  version: 3.0.36
   source: 1
-  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.ide.rider@3.0.34
+  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.ide.rider@3.0.36
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -355,9 +359,11 @@ m_ResolvedPackages:
     - 3.0.28
     - 3.0.31
     - 3.0.34
+    - 3.0.35
+    - 3.0.36
     compatible:
-    - 3.0.34
-    recommended: 3.0.34
+    - 3.0.36
+    recommended: 3.0.36
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
@@ -376,16 +382,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638651995659960000
+  datePublishedTicks: 638799562419060000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: 700eb86ebc7b9f72d760e2e1c740fc5e2fd6a54b
+    revision: b5315083ab3861d21f6ab2ed0d9514daf04bf208
     path: 
   unityLifecycle:
-    version: 3.0.34
+    version: 3.0.36
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -439,9 +445,11 @@ m_ResolvedPackages:
     - 2.0.20
     - 2.0.21
     - 2.0.22
+    - 2.0.23
     compatible:
     - 2.0.22
-    recommended: 2.0.22
+    - 2.0.23
+    recommended: 2.0.23
     deprecated: []
   dependencies:
   - name: com.unity.test-framework
@@ -483,12 +491,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.inputsystem@1.11.2
+- packageId: com.unity.inputsystem@1.14.0
   testable: 0
   isDirectDependency: 1
-  version: 1.11.2
+  version: 1.14.0
   source: 1
-  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.inputsystem@1.11.2
+  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.inputsystem@1.14.0
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -555,9 +563,13 @@ m_ResolvedPackages:
     - 1.11.0
     - 1.11.1
     - 1.11.2
+    - 1.12.0
+    - 1.13.0
+    - 1.13.1
+    - 1.14.0
     compatible:
-    - 1.11.2
-    recommended: 1.11.2
+    - 1.14.0
+    recommended: 1.14.0
     deprecated: []
   dependencies:
   - name: com.unity.modules.uielements
@@ -590,16 +602,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638648557315530000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.11/manual/index.html
+  datePublishedTicks: 638780752796560000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.14/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/InputSystem.git
-    revision: c8518694c7fdd2c755755e028e2ec19cdceda19b
+    revision: 5ac6cb14e03a4e4e5faf7bd8fbd915105ae3ff55
     path: 
   unityLifecycle:
-    version: 1.11.2
+    version: 1.14.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -676,6 +688,7 @@ m_ResolvedPackages:
     - 1.4.3
     - 1.4.4
     - 1.4.5
+    - 1.4.6
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -697,6 +710,7 @@ m_ResolvedPackages:
     - 1.4.3
     - 1.4.4
     - 1.4.5
+    - 1.4.6
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -880,6 +894,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.9
     - 3.2.0-pre.10
     - 3.2.0-pre.11
+    - 3.2.0-pre.12
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
@@ -897,6 +912,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.9
     - 3.2.0-pre.10
     - 3.2.0-pre.11
+    - 3.2.0-pre.12
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     recommended: 3.0.9
@@ -944,12 +960,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.timeline@1.7.6
+- packageId: com.unity.timeline@1.7.7
   testable: 0
   isDirectDependency: 1
-  version: 1.7.6
+  version: 1.7.7
   source: 1
-  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.timeline@1.7.6
+  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.timeline@1.7.7
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -958,7 +974,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: assets
+  type: 
   description: Use Unity Timeline to create cinematic content, game-play sequences,
     audio sequences, and complex particle effects.
   status: 0
@@ -1043,6 +1059,7 @@ m_ResolvedPackages:
     - 1.7.4
     - 1.7.5
     - 1.7.6
+    - 1.7.7
     - 1.8.0
     - 1.8.1
     - 1.8.2
@@ -1051,8 +1068,9 @@ m_ResolvedPackages:
     - 1.8.5
     - 1.8.6
     - 1.8.7
+    - 1.8.8
     compatible:
-    - 1.7.6
+    - 1.7.7
     - 1.8.0
     - 1.8.1
     - 1.8.2
@@ -1061,7 +1079,8 @@ m_ResolvedPackages:
     - 1.8.5
     - 1.8.6
     - 1.8.7
-    recommended: 1.7.6
+    - 1.8.8
+    recommended: 1.7.7
     deprecated: []
   dependencies:
   - name: com.unity.modules.audio
@@ -1097,16 +1116,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638326112840000000
+  datePublishedTicks: 638767785867400000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.7/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-    revision: 02f49ada64a9f88044207cf42ba407dc634ef8e6
+    revision: 36c3480685dcb744f098f1a1efe0623247ffab49
     path: 
   unityLifecycle:
-    version: 1.7.6
+    version: 1.7.7
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -1233,17 +1252,21 @@ m_ResolvedPackages:
     - 1.7.6
     - 1.7.7
     - 1.7.8
+    - 1.8.0-pre.1
     - 1.8.0
     - 1.9.0
     - 1.9.1
     - 1.9.2
     - 1.9.4
     - 1.9.5
+    - 1.9.6
     compatible:
     - 1.9.4
     - 1.9.5
-    recommended: 1.9.5
-    deprecated: []
+    - 1.9.6
+    recommended: 1.9.6
+    deprecated:
+    - 1.8.0-pre.1
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -3291,12 +3314,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.2d.animation@9.1.3
+- packageId: com.unity.2d.animation@9.2.0
   testable: 0
   isDirectDependency: 0
-  version: 9.1.3
+  version: 9.2.0
   source: 1
-  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.2d.animation@9.1.3
+  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.2d.animation@9.2.0
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -3412,6 +3435,7 @@ m_ResolvedPackages:
     - 7.1.0
     - 7.1.1
     - 7.1.2
+    - 7.2.0
     - 8.0.0-pre.3
     - 8.0.0-pre.4
     - 8.0.0
@@ -3431,6 +3455,7 @@ m_ResolvedPackages:
     - 9.1.1
     - 9.1.2
     - 9.1.3
+    - 9.2.0
     - 10.0.0-pre.1
     - 10.0.0-pre.2
     - 10.0.0
@@ -3442,13 +3467,14 @@ m_ResolvedPackages:
     - 10.1.2
     - 10.1.3
     - 10.1.4
+    - 10.2.0
     compatible:
-    - 9.1.3
-    recommended: 9.1.3
+    - 9.2.0
+    recommended: 9.2.0
     deprecated: []
   dependencies:
   - name: com.unity.2d.common
-    version: 8.0.4
+    version: 8.1.0
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.collections
@@ -3459,9 +3485,9 @@ m_ResolvedPackages:
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.2d.common
-    version: 8.0.4
+    version: 8.1.0
   - name: com.unity.burst
-    version: 1.8.18
+    version: 1.8.21
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.modules.jsonserialize
@@ -3495,16 +3521,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638647709295660000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.animation@9.1/manual/index.html
+  datePublishedTicks: 638786485509930000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.animation@9.2/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 8a1c28ecd445416882b23beb7707d3d60b153f79
+    revision: 854e7c330168787e9d4ea0311c42dadc256cb889
     path: 
   unityLifecycle:
-    version: 9.1.3
+    version: 9.2.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -3512,12 +3538,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.2d.pixel-perfect@5.0.3
+- packageId: com.unity.2d.pixel-perfect@5.1.0
   testable: 0
   isDirectDependency: 0
-  version: 5.0.3
+  version: 5.1.0
   source: 1
-  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.3
+  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.2d.pixel-perfect@5.1.0
   assetPath: Packages/com.unity.2d.pixel-perfect
   name: com.unity.2d.pixel-perfect
   displayName: 2D Pixel Perfect
@@ -3526,7 +3552,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: tool
+  type: 
   description: 'The 2D Pixel Perfect package contains the Pixel Perfect Camera component
     which ensures your pixel art remains crisp and clear at different resolutions,
     and stable in motion.
@@ -3558,12 +3584,17 @@ m_ResolvedPackages:
     - 5.0.1
     - 5.0.2
     - 5.0.3
+    - 5.1.0
     compatible:
-    - 5.0.3
-    recommended: 5.0.3
+    - 5.1.0
+    recommended: 5.1.0
     deprecated: []
-  dependencies: []
-  resolvedDependencies: []
+  dependencies:
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.imgui
+    version: 1.0.0
   keywords:
   - pixel
   - perfect
@@ -3579,16 +3610,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638023910590000000
-  documentationUrl: 
+  datePublishedTicks: 638775664687690000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.pixel-perfect@5.1/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 6dea8ac5bd6953acd64f1ac9d470912954b0c015
+    revision: 9ead9de91ee9fdb290bfcc223d793a449e7f8370
     path: 
   unityLifecycle:
-    version: 5.0.3
+    version: 5.1.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -3596,12 +3627,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.2d.psdimporter@8.0.5
+- packageId: com.unity.2d.psdimporter@8.1.0
   testable: 0
   isDirectDependency: 0
-  version: 8.0.5
+  version: 8.1.0
   source: 1
-  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.2d.psdimporter@8.0.5
+  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.2d.psdimporter@8.1.0
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -3610,7 +3641,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 2D
-  type: assets
+  type: 
   description: A ScriptedImporter for importing Adobe Photoshop PSB (Photoshop Big)
     file format. The ScriptedImporter is currently targeted for users who wants to
     create multi Sprite character animation using Unity 2D Animation Package.
@@ -3677,6 +3708,7 @@ m_ResolvedPackages:
     - 6.0.7
     - 6.0.8
     - 6.0.9
+    - 6.1.0
     - 7.0.0-pre.3
     - 7.0.0-pre.4
     - 7.0.0
@@ -3691,28 +3723,31 @@ m_ResolvedPackages:
     - 8.0.3
     - 8.0.4
     - 8.0.5
+    - 8.1.0
     - 9.0.0-pre.1
     - 9.0.0-pre.2
     - 9.0.0
     - 9.0.1
     - 9.0.2
     - 9.0.3
+    - 10.0.0
+    - 10.1.0
     compatible:
-    - 8.0.5
-    recommended: 8.0.5
+    - 8.1.0
+    recommended: 8.1.0
     deprecated: []
   dependencies:
   - name: com.unity.2d.common
-    version: 8.0.2
+    version: 8.1.0
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.2d.animation
-    version: 9.1.1
+    version: 9.2.0
   resolvedDependencies:
   - name: com.unity.2d.common
-    version: 8.0.4
+    version: 8.1.0
   - name: com.unity.burst
-    version: 1.8.18
+    version: 1.8.21
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.modules.jsonserialize
@@ -3728,7 +3763,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.2d.animation
-    version: 9.1.3
+    version: 9.2.0
   - name: com.unity.collections
     version: 1.2.4
   - name: com.unity.test-framework
@@ -3749,16 +3784,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638515171920000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.psdimporter@8.0/manual/index.html
+  datePublishedTicks: 638786485526070000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.psdimporter@8.1/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: c76edf174a772eda3d3152a9d38ad8c364cce43e
+    revision: 854e7c330168787e9d4ea0311c42dadc256cb889
     path: 
   unityLifecycle:
-    version: 8.0.5
+    version: 8.1.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -3825,12 +3860,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.2d.spriteshape@9.0.5
+- packageId: com.unity.2d.spriteshape@9.1.0
   testable: 0
   isDirectDependency: 0
-  version: 9.0.5
+  version: 9.1.0
   source: 1
-  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.2d.spriteshape@9.0.5
+  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.2d.spriteshape@9.1.0
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -3916,6 +3951,7 @@ m_ResolvedPackages:
     - 7.0.5
     - 7.0.6
     - 7.0.7
+    - 7.1.0
     - 8.0.0-pre.4
     - 8.0.0-pre.5
     - 8.0.0
@@ -3927,6 +3963,7 @@ m_ResolvedPackages:
     - 9.0.3
     - 9.0.4
     - 9.0.5
+    - 9.1.0
     - 10.0.0-pre.1
     - 10.0.0-pre.2
     - 10.0.0
@@ -3937,22 +3974,23 @@ m_ResolvedPackages:
     - 10.0.5
     - 10.0.6
     - 10.0.7
+    - 10.1.0
     compatible:
-    - 9.0.5
-    recommended: 9.0.5
+    - 9.1.0
+    recommended: 9.1.0
     deprecated: []
   dependencies:
   - name: com.unity.2d.common
-    version: 8.0.4
+    version: 8.1.0
   - name: com.unity.mathematics
     version: 1.1.0
   - name: com.unity.modules.physics2d
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.2d.common
-    version: 8.0.4
+    version: 8.1.0
   - name: com.unity.burst
-    version: 1.8.18
+    version: 1.8.21
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.modules.jsonserialize
@@ -3986,16 +4024,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638647709311310000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.spriteshape@9.0/manual/index.html
+  datePublishedTicks: 638786485546140000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.spriteshape@9.1/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 8a1c28ecd445416882b23beb7707d3d60b153f79
+    revision: 854e7c330168787e9d4ea0311c42dadc256cb889
     path: 
   unityLifecycle:
-    version: 9.0.5
+    version: 9.1.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -4150,6 +4188,8 @@ m_ResolvedPackages:
     - 4.0.1
     - 4.0.2
     - 4.1.0
+    - 4.2.1
+    - 4.3.0
     compatible:
     - 3.1.3
     recommended: 3.1.3
@@ -4209,12 +4249,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.2d.aseprite@1.1.6
+- packageId: com.unity.2d.aseprite@1.1.9
   testable: 0
   isDirectDependency: 0
-  version: 1.1.6
+  version: 1.1.9
   source: 1
-  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.2d.aseprite@1.1.6
+  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.2d.aseprite@1.1.9
   assetPath: Packages/com.unity.2d.aseprite
   name: com.unity.2d.aseprite
   displayName: 2D Aseprite Importer
@@ -4244,10 +4284,16 @@ m_ResolvedPackages:
     - 1.1.5
     - 1.1.6
     - 1.1.7
+    - 1.1.8
+    - 1.1.9
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.2.4
     compatible:
-    - 1.1.6
-    - 1.1.7
-    recommended: 1.1.7
+    - 1.1.9
+    recommended: 1.1.9
     deprecated: []
   dependencies:
   - name: com.unity.2d.common
@@ -4260,9 +4306,9 @@ m_ResolvedPackages:
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.2d.common
-    version: 8.0.4
+    version: 8.1.0
   - name: com.unity.burst
-    version: 1.8.18
+    version: 1.8.21
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.modules.jsonserialize
@@ -4293,16 +4339,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638608683682080000
+  datePublishedTicks: 638796223739820000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.aseprite@1.1/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/AsepriteImporter.git
-    revision: 74d430549e8f10c1cde9a19b90ceaf626f1111eb
+    revision: b3f5769982eceb8fffc54aaa15576646bb8dc938
     path: 
   unityLifecycle:
-    version: 1.1.6
+    version: 1.1.9
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -4310,12 +4356,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.2d.common@8.0.4
+- packageId: com.unity.2d.common@8.1.0
   testable: 0
   isDirectDependency: 0
-  version: 8.0.4
+  version: 8.1.0
   source: 1
-  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.2d.common@8.0.4
+  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.2d.common@8.1.0
   assetPath: Packages/com.unity.2d.common
   name: com.unity.2d.common
   displayName: 2D Common
@@ -4368,6 +4414,7 @@ m_ResolvedPackages:
     - 6.0.6
     - 6.0.7
     - 6.0.8
+    - 6.1.0
     - 7.0.0-pre.3
     - 7.0.0-pre.4
     - 7.0.0
@@ -4381,6 +4428,7 @@ m_ResolvedPackages:
     - 8.0.2
     - 8.0.3
     - 8.0.4
+    - 8.1.0
     - 9.0.0-pre.1
     - 9.0.0-pre.2
     - 9.0.0
@@ -4391,9 +4439,11 @@ m_ResolvedPackages:
     - 9.0.5
     - 9.0.6
     - 9.0.7
+    - 9.1.0
+    - 11.0.0
     compatible:
-    - 8.0.4
-    recommended: 8.0.4
+    - 8.1.0
+    recommended: 8.1.0
     deprecated: []
   dependencies:
   - name: com.unity.burst
@@ -4408,7 +4458,7 @@ m_ResolvedPackages:
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.burst
-    version: 1.8.18
+    version: 1.8.21
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.modules.jsonserialize
@@ -4435,16 +4485,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638647709261720000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.common@8.0/manual/index.html
+  datePublishedTicks: 638786485477740000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.common@8.1/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 8a1c28ecd445416882b23beb7707d3d60b153f79
+    revision: 854e7c330168787e9d4ea0311c42dadc256cb889
     path: 
   unityLifecycle:
-    version: 8.0.4
+    version: 8.1.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -4599,6 +4649,7 @@ m_ResolvedPackages:
     - 1.3.1
     - 1.4.0
     - 1.5.1
+    - 1.5.2
     - 2.1.0-exp.4
     - 2.1.0-pre.2
     - 2.1.0-pre.6
@@ -4620,11 +4671,16 @@ m_ResolvedPackages:
     - 2.5.0-exp.1
     - 2.5.0-pre.2
     - 2.5.1
+    - 2.5.2
+    - 2.5.3
+    - 2.5.7
+    - 2.6.0-exp.2
     compatible:
     - 1.2.4
     - 1.3.1
     - 1.4.0
     - 1.5.1
+    - 1.5.2
     - 2.1.0-exp.4
     - 2.1.0-pre.2
     - 2.1.0-pre.6
@@ -4646,7 +4702,11 @@ m_ResolvedPackages:
     - 2.5.0-exp.1
     - 2.5.0-pre.2
     - 2.5.1
-    recommended: 2.5.1
+    - 2.5.2
+    - 2.5.3
+    - 2.5.7
+    - 2.6.0-exp.2
+    recommended: 2.5.7
     deprecated: []
   dependencies:
   - name: com.unity.burst
@@ -4655,7 +4715,7 @@ m_ResolvedPackages:
     version: 1.1.31
   resolvedDependencies:
   - name: com.unity.burst
-    version: 1.8.18
+    version: 1.8.21
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.modules.jsonserialize
@@ -4697,12 +4757,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.burst@1.8.18
+- packageId: com.unity.burst@1.8.21
   testable: 0
   isDirectDependency: 0
-  version: 1.8.18
+  version: 1.8.21
   source: 1
-  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.burst@1.8.18
+  resolvedPath: E:\Unity\Crazy-Flikez\Crazy Flikez\Library\PackageCache\com.unity.burst@1.8.21
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -4851,9 +4911,12 @@ m_ResolvedPackages:
     - 1.8.16
     - 1.8.17
     - 1.8.18
+    - 1.8.19
+    - 1.8.20
+    - 1.8.21
     compatible:
-    - 1.8.18
-    recommended: 1.8.18
+    - 1.8.21
+    recommended: 1.8.21
     deprecated: []
   dependencies:
   - name: com.unity.mathematics
@@ -4876,16 +4939,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638622972693870000
+  datePublishedTicks: 638797336625580000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/burst.git
-    revision: 594a8d8794083be96fa510b2deea0954f971ecc9
+    revision: 941bff0925baa46012a2eff522313c170bf36c7a
     path: 
   unityLifecycle:
-    version: 1.8.18
+    version: 1.8.21
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -4893,4 +4956,4 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-m_BuiltInPackagesHash: 030963dec6103ecf574c32b718410733aea3e628
+m_BuiltInPackagesHash: 589add9c3ae0bc06545f5c61253b1928f3e64fad
