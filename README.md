@@ -27,3 +27,7 @@ Version 0.3 Dubug, Points, Scores
 Version 0.4 Add Best Score
 
 Version 0.7 Add Shop and many skins
+
+Version 0.9 naprawianie błędów i optymalizacja
+
+Version 1.0 gotowa 1 wersja wydania projektu
